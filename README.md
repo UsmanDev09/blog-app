@@ -54,3 +54,5 @@ If you do not want to create new user accounts, you can use existing account. On
 email: usiddique09@gmail.com
 password: usman
 ```
+
+#### The client runs on localhost:5173 and the server runs on localhost:3000.
